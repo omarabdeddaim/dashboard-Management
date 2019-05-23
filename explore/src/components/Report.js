@@ -1,23 +1,81 @@
-import React, { Component } from "react";
-import jwt_decode from "jwt-decode";
+import React from "react";
+import Dashboard from "../components/dashboard";
 
-class Report extends Component {
-  render() {
-    return (
-      <div className="container">
-        <div className="jumbotrom mt-5">
-          <div className="clo-sm-8 mx-auto">
-            <h1 className="text-center">Reports</h1>
-            <button>
-              <a href="https://natahouse.atlassian.net/secure/BrowseProjects.jspa">
-                hello jira
-              </a>
-            </button>
-          </div>
-        </div>
-      </div>
-    );
-  }
-}
+// Widgets
+import DateTime from "../components/widgets/datetime";
+import PageSpeedInsightsScore from "../components/widgets/pagespeed-insights/score";
+import PageSpeedInsightsStats from "../components/widgets/pagespeed-insights/stats";
+import JiraIssueCount from "../components/widgets/jira/issue-count";
+import SonarQube from "../components/widgets/sonarqube";
+import JenkinsJobStatus from "../components/widgets/jenkins/job-status";
+import JenkinsJobHealth from "../components/widgets/jenkins/job-health";
+import JenkinsBuildDuration from "../components/widgets/jenkins/build-duration";
+import BitbucketPullRequestCount from "../components/widgets/bitbucket/pull-request-count";
+import ElasticsearchHitCount from "../components/widgets/elasticsearch/hit-count";
+import GitHubIssueCount from "../components/widgets/github/issue-count";
 
-export default Report;
+// Theme
+//import lightTheme from "../styles/light-theme";
+import darkTheme from "../styles/dark-theme";
+
+export default () => (
+  <Dashboard theme={darkTheme}>
+    <DateTime />
+
+    <PageSpeedInsightsScore url="https://github.com" />
+
+    <PageSpeedInsightsStats url="https://github.com" />
+
+    <JiraIssueCount
+      title="JIRA Open issues"
+      authKey="rQbqRfk0QYHaDz1TGTyQ5AB3"
+      url="https://natahouse.atlassian.net"
+      query='type=SHERLOCK-34 AND project="Sherlock" AND resolution=Unresolved ORDER BY priority DESC,created DESC'
+    />
+
+    <BitbucketPullRequestCount
+      title="Bitbucket Open PR"
+      url="https://crossorigin.me/https://bitbucket.typo3.com"
+      project="EXT"
+      repository="blog"
+    />
+
+    <SonarQube
+      url="https://crossorigin.me=https://sonarcloud.io"
+      componentKey="com.icegreen:greenmail-parent"
+    />
+
+    <JenkinsJobStatus
+      url="https://builds.apache.org"
+      jobs={[
+        { label: "JMeter", path: "JMeter-trunk" },
+        { label: "Log4j Kotlin", path: "Log4jKotlin", branch: "master" }
+      ]}
+    />
+
+    <JenkinsJobHealth
+      url="https://builds.apache.org"
+      jobs={[
+        { label: "JMeter", path: "JMeter-trunk" },
+        { label: "Log4j Kotlin", path: "Log4jKotlin", branch: "master" }
+      ]}
+    />
+
+    <JenkinsBuildDuration
+      url="https://builds.apache.org"
+      jobs={[
+        { label: "JMeter", path: "JMeter-trunk" },
+        { label: "Log4j Kotlin", path: "Log4jKotlin", branch: "master" }
+      ]}
+    />
+
+    <ElasticsearchHitCount
+      title="Log Hits"
+      url="https://crossorigin.me=http://ec2-34-210-144-223.us-west-2.compute.amazonaws.com:9200"
+      index="blog"
+      query="user:dilbert"
+    />
+
+    <GitHubIssueCount owner="omarabdeddaim" repository="dashboard-Management" />
+  </Dashboard>
+);
