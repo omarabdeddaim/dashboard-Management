@@ -2,7 +2,6 @@ import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
 import App from "./App";
-import Calendar1 from "./components/Calendar1";
 import * as serviceWorker from "./serviceWorker";
 
 ReactDOM.render(

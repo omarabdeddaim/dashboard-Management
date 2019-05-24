@@ -39,6 +39,14 @@ module.exports = {
             }
           }
         ]
+      },
+      {
+        resolve: {
+          alias: {
+            "coffer-script":
+              "./node_modules/coffee-script/lib/coffee-script/register.js"
+          }
+        }
       }
     ]
   },

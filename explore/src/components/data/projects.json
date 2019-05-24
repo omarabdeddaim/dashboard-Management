@@ -1,0 +1,627 @@
+[
+  {
+    "expand": "description,lead,issueTypes,url,projectKeys,permissions",
+    "self": "https://natahouse.atlassian.net/rest/api/3/project/10039",
+    "id": "10039",
+    "key": "CGPX",
+    "name": "Combustível Garantido & Pontua X",
+    "avatarUrls": {
+      "48x48": "https://natahouse.atlassian.net/secure/projectavatar?pid=10039&avatarId=10525",
+      "24x24": "https://natahouse.atlassian.net/secure/projectavatar?size=small&s=small&pid=10039&avatarId=10525",
+      "16x16": "https://natahouse.atlassian.net/secure/projectavatar?size=xsmall&s=xsmall&pid=10039&avatarId=10525",
+      "32x32": "https://natahouse.atlassian.net/secure/projectavatar?size=medium&s=medium&pid=10039&avatarId=10525"
+    },
+    "projectTypeKey": "software",
+    "simplified": false,
+    "style": "classic",
+    "isPrivate": false,
+    "properties": {}
+  },
+  {
+    "expand": "description,lead,issueTypes,url,projectKeys,permissions",
+    "self": "https://natahouse.atlassian.net/rest/api/3/project/10038",
+    "id": "10038",
+    "key": "COM",
+    "name": "Completo",
+    "avatarUrls": {
+      "48x48": "https://natahouse.atlassian.net/secure/projectavatar?avatarId=10324",
+      "24x24": "https://natahouse.atlassian.net/secure/projectavatar?size=small&s=small&avatarId=10324",
+      "16x16": "https://natahouse.atlassian.net/secure/projectavatar?size=xsmall&s=xsmall&avatarId=10324",
+      "32x32": "https://natahouse.atlassian.net/secure/projectavatar?size=medium&s=medium&avatarId=10324"
+    },
+    "projectTypeKey": "software",
+    "simplified": false,
+    "style": "classic",
+    "isPrivate": false,
+    "properties": {}
+  },
+  {
+    "expand": "description,lead,issueTypes,url,projectKeys,permissions",
+    "self": "https://natahouse.atlassian.net/rest/api/3/project/10031",
+    "id": "10031",
+    "key": "CC",
+    "name": "CPE Combustível",
+    "avatarUrls": {
+      "48x48": "https://natahouse.atlassian.net/secure/projectavatar?avatarId=10324",
+      "24x24": "https://natahouse.atlassian.net/secure/projectavatar?size=small&s=small&avatarId=10324",
+      "16x16": "https://natahouse.atlassian.net/secure/projectavatar?size=xsmall&s=xsmall&avatarId=10324",
+      "32x32": "https://natahouse.atlassian.net/secure/projectavatar?size=medium&s=medium&avatarId=10324"
+    },
+    "projectTypeKey": "software",
+    "simplified": true,
+    "style": "next-gen",
+    "isPrivate": false,
+    "properties": {},
+    "uuid": "1084042d-2e8a-41ce-864b-d5c5fe0efaf6"
+  },
+  {
+    "expand": "description,lead,issueTypes,url,projectKeys,permissions",
+    "self": "https://natahouse.atlassian.net/rest/api/3/project/10021",
+    "id": "10021",
+    "key": "EB",
+    "name": "eCorretor Bot",
+    "avatarUrls": {
+      "48x48": "https://natahouse.atlassian.net/secure/projectavatar?pid=10021&avatarId=10517",
+      "24x24": "https://natahouse.atlassian.net/secure/projectavatar?size=small&s=small&pid=10021&avatarId=10517",
+      "16x16": "https://natahouse.atlassian.net/secure/projectavatar?size=xsmall&s=xsmall&pid=10021&avatarId=10517",
+      "32x32": "https://natahouse.atlassian.net/secure/projectavatar?size=medium&s=medium&pid=10021&avatarId=10517"
+    },
+    "projectTypeKey": "software",
+    "simplified": false,
+    "style": "classic",
+    "isPrivate": false,
+    "properties": {}
+  },
+  {
+    "expand": "description,lead,issueTypes,url,projectKeys,permissions",
+    "self": "https://natahouse.atlassian.net/rest/api/3/project/10013",
+    "id": "10013",
+    "key": "FDS",
+    "name": "FCA Drive Session",
+    "avatarUrls": {
+      "48x48": "https://natahouse.atlassian.net/secure/projectavatar?avatarId=10324",
+      "24x24": "https://natahouse.atlassian.net/secure/projectavatar?size=small&s=small&avatarId=10324",
+      "16x16": "https://natahouse.atlassian.net/secure/projectavatar?size=xsmall&s=xsmall&avatarId=10324",
+      "32x32": "https://natahouse.atlassian.net/secure/projectavatar?size=medium&s=medium&avatarId=10324"
+    },
+    "projectTypeKey": "software",
+    "simplified": false,
+    "style": "classic",
+    "isPrivate": false,
+    "properties": {}
+  },
+  {
+    "expand": "description,lead,issueTypes,url,projectKeys,permissions",
+    "self": "https://natahouse.atlassian.net/rest/api/3/project/10019",
+    "id": "10019",
+    "key": "FS",
+    "name": "FCA SDE",
+    "avatarUrls": {
+      "48x48": "https://natahouse.atlassian.net/secure/projectavatar?avatarId=10324",
+      "24x24": "https://natahouse.atlassian.net/secure/projectavatar?size=small&s=small&avatarId=10324",
+      "16x16": "https://natahouse.atlassian.net/secure/projectavatar?size=xsmall&s=xsmall&avatarId=10324",
+      "32x32": "https://natahouse.atlassian.net/secure/projectavatar?size=medium&s=medium&avatarId=10324"
+    },
+    "projectTypeKey": "software",
+    "simplified": false,
+    "style": "classic",
+    "isPrivate": false,
+    "properties": {}
+  },
+  {
+    "expand": "description,lead,issueTypes,url,projectKeys,permissions",
+    "self": "https://natahouse.atlassian.net/rest/api/3/project/10030",
+    "id": "10030",
+    "key": "FIG",
+    "name": "Figma",
+    "avatarUrls": {
+      "48x48": "https://natahouse.atlassian.net/secure/projectavatar?avatarId=10324",
+      "24x24": "https://natahouse.atlassian.net/secure/projectavatar?size=small&s=small&avatarId=10324",
+      "16x16": "https://natahouse.atlassian.net/secure/projectavatar?size=xsmall&s=xsmall&avatarId=10324",
+      "32x32": "https://natahouse.atlassian.net/secure/projectavatar?size=medium&s=medium&avatarId=10324"
+    },
+    "projectTypeKey": "software",
+    "simplified": true,
+    "style": "next-gen",
+    "isPrivate": false,
+    "properties": {},
+    "uuid": "c5eea88b-3503-4ec6-b4a1-0e34ba2c5454"
+  },
+  {
+    "expand": "description,lead,issueTypes,url,projectKeys,permissions",
+    "self": "https://natahouse.atlassian.net/rest/api/3/project/10018",
+    "id": "10018",
+    "key": "FINSPECT",
+    "name": "Finspect",
+    "avatarUrls": {
+      "48x48": "https://natahouse.atlassian.net/secure/projectavatar?avatarId=10324",
+      "24x24": "https://natahouse.atlassian.net/secure/projectavatar?size=small&s=small&avatarId=10324",
+      "16x16": "https://natahouse.atlassian.net/secure/projectavatar?size=xsmall&s=xsmall&avatarId=10324",
+      "32x32": "https://natahouse.atlassian.net/secure/projectavatar?size=medium&s=medium&avatarId=10324"
+    },
+    "projectTypeKey": "software",
+    "simplified": false,
+    "style": "classic",
+    "isPrivate": false,
+    "properties": {}
+  },
+  {
+    "expand": "description,lead,issueTypes,url,projectKeys,permissions",
+    "self": "https://natahouse.atlassian.net/rest/api/3/project/10009",
+    "id": "10009",
+    "key": "FINOLD",
+    "name": "Finspect (old)",
+    "avatarUrls": {
+      "48x48": "https://natahouse.atlassian.net/secure/projectavatar?avatarId=10324",
+      "24x24": "https://natahouse.atlassian.net/secure/projectavatar?size=small&s=small&avatarId=10324",
+      "16x16": "https://natahouse.atlassian.net/secure/projectavatar?size=xsmall&s=xsmall&avatarId=10324",
+      "32x32": "https://natahouse.atlassian.net/secure/projectavatar?size=medium&s=medium&avatarId=10324"
+    },
+    "projectTypeKey": "software",
+    "simplified": false,
+    "style": "classic",
+    "isPrivate": false,
+    "properties": {}
+  },
+  {
+    "expand": "description,lead,issueTypes,url,projectKeys,permissions",
+    "self": "https://natahouse.atlassian.net/rest/api/3/project/10032",
+    "id": "10032",
+    "key": "FOCO",
+    "name": "Foco",
+    "avatarUrls": {
+      "48x48": "https://natahouse.atlassian.net/secure/projectavatar?avatarId=10324",
+      "24x24": "https://natahouse.atlassian.net/secure/projectavatar?size=small&s=small&avatarId=10324",
+      "16x16": "https://natahouse.atlassian.net/secure/projectavatar?size=xsmall&s=xsmall&avatarId=10324",
+      "32x32": "https://natahouse.atlassian.net/secure/projectavatar?size=medium&s=medium&avatarId=10324"
+    },
+    "projectTypeKey": "software",
+    "simplified": true,
+    "style": "next-gen",
+    "isPrivate": false,
+    "properties": {},
+    "uuid": "9c5b8dd3-f312-4f10-ba8c-d88a4650b300"
+  },
+  {
+    "expand": "description,lead,issueTypes,url,projectKeys,permissions",
+    "self": "https://natahouse.atlassian.net/rest/api/3/project/10035",
+    "id": "10035",
+    "key": "KAN",
+    "name": "kanbantest",
+    "avatarUrls": {
+      "48x48": "https://natahouse.atlassian.net/secure/projectavatar?avatarId=10324",
+      "24x24": "https://natahouse.atlassian.net/secure/projectavatar?size=small&s=small&avatarId=10324",
+      "16x16": "https://natahouse.atlassian.net/secure/projectavatar?size=xsmall&s=xsmall&avatarId=10324",
+      "32x32": "https://natahouse.atlassian.net/secure/projectavatar?size=medium&s=medium&avatarId=10324"
+    },
+    "projectTypeKey": "software",
+    "simplified": true,
+    "style": "next-gen",
+    "isPrivate": false,
+    "properties": {},
+    "uuid": "40ff6a57-41e9-430f-8ddf-4b175084afb1"
+  },
+  {
+    "expand": "description,lead,issueTypes,url,projectKeys,permissions",
+    "self": "https://natahouse.atlassian.net/rest/api/3/project/10004",
+    "id": "10004",
+    "key": "LTZ",
+    "name": "Litroz",
+    "avatarUrls": {
+      "48x48": "https://natahouse.atlassian.net/secure/projectavatar?pid=10004&avatarId=10515",
+      "24x24": "https://natahouse.atlassian.net/secure/projectavatar?size=small&s=small&pid=10004&avatarId=10515",
+      "16x16": "https://natahouse.atlassian.net/secure/projectavatar?size=xsmall&s=xsmall&pid=10004&avatarId=10515",
+      "32x32": "https://natahouse.atlassian.net/secure/projectavatar?size=medium&s=medium&pid=10004&avatarId=10515"
+    },
+    "projectTypeKey": "software",
+    "simplified": false,
+    "style": "classic",
+    "isPrivate": false,
+    "properties": {}
+  },
+  {
+    "expand": "description,lead,issueTypes,url,projectKeys,permissions",
+    "self": "https://natahouse.atlassian.net/rest/api/3/project/10006",
+    "id": "10006",
+    "key": "LHD",
+    "name": "Litroz Help Desk",
+    "avatarUrls": {
+      "48x48": "https://natahouse.atlassian.net/secure/projectavatar?avatarId=10324",
+      "24x24": "https://natahouse.atlassian.net/secure/projectavatar?size=small&s=small&avatarId=10324",
+      "16x16": "https://natahouse.atlassian.net/secure/projectavatar?size=xsmall&s=xsmall&avatarId=10324",
+      "32x32": "https://natahouse.atlassian.net/secure/projectavatar?size=medium&s=medium&avatarId=10324"
+    },
+    "projectTypeKey": "service_desk",
+    "simplified": false,
+    "style": "classic",
+    "isPrivate": true,
+    "properties": {}
+  },
+  {
+    "expand": "description,lead,issueTypes,url,projectKeys,permissions",
+    "self": "https://natahouse.atlassian.net/rest/api/3/project/10023",
+    "id": "10023",
+    "key": "LOG",
+    "name": "Logmax",
+    "avatarUrls": {
+      "48x48": "https://natahouse.atlassian.net/secure/projectavatar?avatarId=10324",
+      "24x24": "https://natahouse.atlassian.net/secure/projectavatar?size=small&s=small&avatarId=10324",
+      "16x16": "https://natahouse.atlassian.net/secure/projectavatar?size=xsmall&s=xsmall&avatarId=10324",
+      "32x32": "https://natahouse.atlassian.net/secure/projectavatar?size=medium&s=medium&avatarId=10324"
+    },
+    "projectTypeKey": "software",
+    "simplified": true,
+    "style": "next-gen",
+    "isPrivate": false,
+    "properties": {},
+    "uuid": "ae330b2d-e1f9-421c-a59f-5579b9ea8b10"
+  },
+  {
+    "expand": "description,lead,issueTypes,url,projectKeys,permissions",
+    "self": "https://natahouse.atlassian.net/rest/api/3/project/10011",
+    "id": "10011",
+    "key": "MAO",
+    "name": "Meu Advogado Online",
+    "avatarUrls": {
+      "48x48": "https://natahouse.atlassian.net/secure/projectavatar?avatarId=10324",
+      "24x24": "https://natahouse.atlassian.net/secure/projectavatar?size=small&s=small&avatarId=10324",
+      "16x16": "https://natahouse.atlassian.net/secure/projectavatar?size=xsmall&s=xsmall&avatarId=10324",
+      "32x32": "https://natahouse.atlassian.net/secure/projectavatar?size=medium&s=medium&avatarId=10324"
+    },
+    "projectTypeKey": "software",
+    "simplified": false,
+    "style": "classic",
+    "isPrivate": false,
+    "properties": {}
+  },
+  {
+    "expand": "description,lead,issueTypes,url,projectKeys,permissions",
+    "self": "https://natahouse.atlassian.net/rest/api/3/project/10015",
+    "id": "10015",
+    "key": "MAO2",
+    "name": "Meu Advogado Online 2",
+    "avatarUrls": {
+      "48x48": "https://natahouse.atlassian.net/secure/projectavatar?pid=10015&avatarId=10518",
+      "24x24": "https://natahouse.atlassian.net/secure/projectavatar?size=small&s=small&pid=10015&avatarId=10518",
+      "16x16": "https://natahouse.atlassian.net/secure/projectavatar?size=xsmall&s=xsmall&pid=10015&avatarId=10518",
+      "32x32": "https://natahouse.atlassian.net/secure/projectavatar?size=medium&s=medium&pid=10015&avatarId=10518"
+    },
+    "projectTypeKey": "software",
+    "simplified": false,
+    "style": "classic",
+    "isPrivate": false,
+    "properties": {}
+  },
+  {
+    "expand": "description,lead,issueTypes,url,projectKeys,permissions",
+    "self": "https://natahouse.atlassian.net/rest/api/3/project/10016",
+    "id": "10016",
+    "key": "MMCMS",
+    "name": "MM CMS",
+    "avatarUrls": {
+      "48x48": "https://natahouse.atlassian.net/secure/projectavatar?avatarId=10324",
+      "24x24": "https://natahouse.atlassian.net/secure/projectavatar?size=small&s=small&avatarId=10324",
+      "16x16": "https://natahouse.atlassian.net/secure/projectavatar?size=xsmall&s=xsmall&avatarId=10324",
+      "32x32": "https://natahouse.atlassian.net/secure/projectavatar?size=medium&s=medium&avatarId=10324"
+    },
+    "projectTypeKey": "software",
+    "simplified": false,
+    "style": "classic",
+    "isPrivate": false,
+    "properties": {}
+  },
+  {
+    "expand": "description,lead,issueTypes,url,projectKeys,permissions",
+    "self": "https://natahouse.atlassian.net/rest/api/3/project/10017",
+    "id": "10017",
+    "key": "MME",
+    "name": "MM Emails",
+    "avatarUrls": {
+      "48x48": "https://natahouse.atlassian.net/secure/projectavatar?avatarId=10324",
+      "24x24": "https://natahouse.atlassian.net/secure/projectavatar?size=small&s=small&avatarId=10324",
+      "16x16": "https://natahouse.atlassian.net/secure/projectavatar?size=xsmall&s=xsmall&avatarId=10324",
+      "32x32": "https://natahouse.atlassian.net/secure/projectavatar?size=medium&s=medium&avatarId=10324"
+    },
+    "projectTypeKey": "software",
+    "simplified": false,
+    "style": "classic",
+    "isPrivate": false,
+    "properties": {}
+  },
+  {
+    "expand": "description,lead,issueTypes,url,projectKeys,permissions",
+    "self": "https://natahouse.atlassian.net/rest/api/3/project/10020",
+    "id": "10020",
+    "key": "MEP2",
+    "name": "MM Emails Phase 2",
+    "avatarUrls": {
+      "48x48": "https://natahouse.atlassian.net/secure/projectavatar?avatarId=10324",
+      "24x24": "https://natahouse.atlassian.net/secure/projectavatar?size=small&s=small&avatarId=10324",
+      "16x16": "https://natahouse.atlassian.net/secure/projectavatar?size=xsmall&s=xsmall&avatarId=10324",
+      "32x32": "https://natahouse.atlassian.net/secure/projectavatar?size=medium&s=medium&avatarId=10324"
+    },
+    "projectTypeKey": "software",
+    "simplified": true,
+    "style": "next-gen",
+    "isPrivate": false,
+    "properties": {},
+    "uuid": "feda3d97-5659-43c9-8024-aa4b71dc8213"
+  },
+  {
+    "expand": "description,lead,issueTypes,url,projectKeys,permissions",
+    "self": "https://natahouse.atlassian.net/rest/api/3/project/10012",
+    "id": "10012",
+    "key": "MWL",
+    "name": "MM White Label",
+    "avatarUrls": {
+      "48x48": "https://natahouse.atlassian.net/secure/projectavatar?avatarId=10324",
+      "24x24": "https://natahouse.atlassian.net/secure/projectavatar?size=small&s=small&avatarId=10324",
+      "16x16": "https://natahouse.atlassian.net/secure/projectavatar?size=xsmall&s=xsmall&avatarId=10324",
+      "32x32": "https://natahouse.atlassian.net/secure/projectavatar?size=medium&s=medium&avatarId=10324"
+    },
+    "projectTypeKey": "software",
+    "simplified": false,
+    "style": "classic",
+    "isPrivate": false,
+    "properties": {}
+  },
+  {
+    "expand": "description,lead,issueTypes,url,projectKeys,permissions",
+    "self": "https://natahouse.atlassian.net/rest/api/3/project/10027",
+    "id": "10027",
+    "key": "QIRA",
+    "name": "Qirá",
+    "avatarUrls": {
+      "48x48": "https://natahouse.atlassian.net/secure/projectavatar?avatarId=10324",
+      "24x24": "https://natahouse.atlassian.net/secure/projectavatar?size=small&s=small&avatarId=10324",
+      "16x16": "https://natahouse.atlassian.net/secure/projectavatar?size=xsmall&s=xsmall&avatarId=10324",
+      "32x32": "https://natahouse.atlassian.net/secure/projectavatar?size=medium&s=medium&avatarId=10324"
+    },
+    "projectTypeKey": "software",
+    "simplified": false,
+    "style": "classic",
+    "isPrivate": false,
+    "properties": {}
+  },
+  {
+    "expand": "description,lead,issueTypes,url,projectKeys,permissions",
+    "self": "https://natahouse.atlassian.net/rest/api/3/project/10025",
+    "id": "10025",
+    "key": "REP",
+    "name": "Reprodez",
+    "avatarUrls": {
+      "48x48": "https://natahouse.atlassian.net/secure/projectavatar?avatarId=10324",
+      "24x24": "https://natahouse.atlassian.net/secure/projectavatar?size=small&s=small&avatarId=10324",
+      "16x16": "https://natahouse.atlassian.net/secure/projectavatar?size=xsmall&s=xsmall&avatarId=10324",
+      "32x32": "https://natahouse.atlassian.net/secure/projectavatar?size=medium&s=medium&avatarId=10324"
+    },
+    "projectTypeKey": "software",
+    "simplified": true,
+    "style": "next-gen",
+    "isPrivate": false,
+    "properties": {},
+    "uuid": "2b483fac-96b6-4071-982f-f26519de9df5"
+  },
+  {
+    "expand": "description,lead,issueTypes,url,projectKeys,permissions",
+    "self": "https://natahouse.atlassian.net/rest/api/3/project/10010",
+    "id": "10010",
+    "key": "REV",
+    "name": "Revertos",
+    "avatarUrls": {
+      "48x48": "https://natahouse.atlassian.net/secure/projectavatar?avatarId=10324",
+      "24x24": "https://natahouse.atlassian.net/secure/projectavatar?size=small&s=small&avatarId=10324",
+      "16x16": "https://natahouse.atlassian.net/secure/projectavatar?size=xsmall&s=xsmall&avatarId=10324",
+      "32x32": "https://natahouse.atlassian.net/secure/projectavatar?size=medium&s=medium&avatarId=10324"
+    },
+    "projectTypeKey": "software",
+    "simplified": false,
+    "style": "classic",
+    "isPrivate": false,
+    "properties": {}
+  },
+  {
+    "expand": "description,lead,issueTypes,url,projectKeys,permissions",
+    "self": "https://natahouse.atlassian.net/rest/api/3/project/10029",
+    "id": "10029",
+    "key": "SL",
+    "name": "Samba LMS + MediaCenter",
+    "avatarUrls": {
+      "48x48": "https://natahouse.atlassian.net/secure/projectavatar?avatarId=10324",
+      "24x24": "https://natahouse.atlassian.net/secure/projectavatar?size=small&s=small&avatarId=10324",
+      "16x16": "https://natahouse.atlassian.net/secure/projectavatar?size=xsmall&s=xsmall&avatarId=10324",
+      "32x32": "https://natahouse.atlassian.net/secure/projectavatar?size=medium&s=medium&avatarId=10324"
+    },
+    "projectTypeKey": "software",
+    "simplified": true,
+    "style": "next-gen",
+    "isPrivate": false,
+    "properties": {},
+    "uuid": "02c70fc6-ca66-41d7-ab89-4909747b307f"
+  },
+  {
+    "expand": "description,lead,issueTypes,url,projectKeys,permissions",
+    "self": "https://natahouse.atlassian.net/rest/api/3/project/10033",
+    "id": "10033",
+    "key": "SAN",
+    "name": "Sanarflix",
+    "avatarUrls": {
+      "48x48": "https://natahouse.atlassian.net/secure/projectavatar?avatarId=10324",
+      "24x24": "https://natahouse.atlassian.net/secure/projectavatar?size=small&s=small&avatarId=10324",
+      "16x16": "https://natahouse.atlassian.net/secure/projectavatar?size=xsmall&s=xsmall&avatarId=10324",
+      "32x32": "https://natahouse.atlassian.net/secure/projectavatar?size=medium&s=medium&avatarId=10324"
+    },
+    "projectTypeKey": "software",
+    "simplified": true,
+    "style": "next-gen",
+    "isPrivate": false,
+    "properties": {},
+    "uuid": "37c3a517-7b99-4e71-ad65-7d50f2c98be2"
+  },
+  {
+    "expand": "description,lead,issueTypes,url,projectKeys,permissions",
+    "self": "https://natahouse.atlassian.net/rest/api/3/project/10040",
+    "id": "10040",
+    "key": "SHERLOCK",
+    "name": "Sherlock",
+    "avatarUrls": {
+      "48x48": "https://natahouse.atlassian.net/secure/projectavatar?avatarId=10324",
+      "24x24": "https://natahouse.atlassian.net/secure/projectavatar?size=small&s=small&avatarId=10324",
+      "16x16": "https://natahouse.atlassian.net/secure/projectavatar?size=xsmall&s=xsmall&avatarId=10324",
+      "32x32": "https://natahouse.atlassian.net/secure/projectavatar?size=medium&s=medium&avatarId=10324"
+    },
+    "projectTypeKey": "software",
+    "simplified": false,
+    "style": "classic",
+    "isPrivate": false,
+    "properties": {}
+  },
+  {
+    "expand": "description,lead,issueTypes,url,projectKeys,permissions",
+    "self": "https://natahouse.atlassian.net/rest/api/3/project/10026",
+    "id": "10026",
+    "key": "TALENT",
+    "name": "Talentgram",
+    "avatarUrls": {
+      "48x48": "https://natahouse.atlassian.net/secure/projectavatar?avatarId=10324",
+      "24x24": "https://natahouse.atlassian.net/secure/projectavatar?size=small&s=small&avatarId=10324",
+      "16x16": "https://natahouse.atlassian.net/secure/projectavatar?size=xsmall&s=xsmall&avatarId=10324",
+      "32x32": "https://natahouse.atlassian.net/secure/projectavatar?size=medium&s=medium&avatarId=10324"
+    },
+    "projectTypeKey": "software",
+    "simplified": false,
+    "style": "classic",
+    "isPrivate": false,
+    "properties": {}
+  },
+  {
+    "expand": "description,lead,issueTypes,url,projectKeys,permissions",
+    "self": "https://natahouse.atlassian.net/rest/api/3/project/10034",
+    "id": "10034",
+    "key": "TES",
+    "name": "testscrum",
+    "avatarUrls": {
+      "48x48": "https://natahouse.atlassian.net/secure/projectavatar?avatarId=10324",
+      "24x24": "https://natahouse.atlassian.net/secure/projectavatar?size=small&s=small&avatarId=10324",
+      "16x16": "https://natahouse.atlassian.net/secure/projectavatar?size=xsmall&s=xsmall&avatarId=10324",
+      "32x32": "https://natahouse.atlassian.net/secure/projectavatar?size=medium&s=medium&avatarId=10324"
+    },
+    "projectTypeKey": "software",
+    "simplified": true,
+    "style": "next-gen",
+    "isPrivate": false,
+    "properties": {},
+    "uuid": "1256c792-ea21-4a1a-bde5-417ad1b9d9fc"
+  },
+  {
+    "expand": "description,lead,issueTypes,url,projectKeys,permissions",
+    "self": "https://natahouse.atlassian.net/rest/api/3/project/10022",
+    "id": "10022",
+    "key": "U4C",
+    "name": "U4Crypto API",
+    "avatarUrls": {
+      "48x48": "https://natahouse.atlassian.net/secure/projectavatar?pid=10022&avatarId=10524",
+      "24x24": "https://natahouse.atlassian.net/secure/projectavatar?size=small&s=small&pid=10022&avatarId=10524",
+      "16x16": "https://natahouse.atlassian.net/secure/projectavatar?size=xsmall&s=xsmall&pid=10022&avatarId=10524",
+      "32x32": "https://natahouse.atlassian.net/secure/projectavatar?size=medium&s=medium&pid=10022&avatarId=10524"
+    },
+    "projectTypeKey": "software",
+    "simplified": false,
+    "style": "classic",
+    "isPrivate": false,
+    "properties": {}
+  },
+  {
+    "expand": "description,lead,issueTypes,url,projectKeys,permissions",
+    "self": "https://natahouse.atlassian.net/rest/api/3/project/10036",
+    "id": "10036",
+    "key": "VDB",
+    "name": "Vestidas de Branco",
+    "avatarUrls": {
+      "48x48": "https://natahouse.atlassian.net/secure/projectavatar?pid=10036&avatarId=10523",
+      "24x24": "https://natahouse.atlassian.net/secure/projectavatar?size=small&s=small&pid=10036&avatarId=10523",
+      "16x16": "https://natahouse.atlassian.net/secure/projectavatar?size=xsmall&s=xsmall&pid=10036&avatarId=10523",
+      "32x32": "https://natahouse.atlassian.net/secure/projectavatar?size=medium&s=medium&pid=10036&avatarId=10523"
+    },
+    "projectTypeKey": "software",
+    "simplified": true,
+    "style": "next-gen",
+    "isPrivate": false,
+    "properties": {},
+    "uuid": "ba2f13aa-b688-4dc4-a174-a1a4bec9a81a"
+  },
+  {
+    "expand": "description,lead,issueTypes,url,projectKeys,permissions",
+    "self": "https://natahouse.atlassian.net/rest/api/3/project/10008",
+    "id": "10008",
+    "key": "WEB",
+    "name": "website",
+    "avatarUrls": {
+      "48x48": "https://natahouse.atlassian.net/secure/projectavatar?pid=10008&avatarId=10516",
+      "24x24": "https://natahouse.atlassian.net/secure/projectavatar?size=small&s=small&pid=10008&avatarId=10516",
+      "16x16": "https://natahouse.atlassian.net/secure/projectavatar?size=xsmall&s=xsmall&pid=10008&avatarId=10516",
+      "32x32": "https://natahouse.atlassian.net/secure/projectavatar?size=medium&s=medium&pid=10008&avatarId=10516"
+    },
+    "projectTypeKey": "software",
+    "simplified": true,
+    "style": "next-gen",
+    "isPrivate": false,
+    "properties": {},
+    "uuid": "57eaceb3-51b6-489c-be0f-c343208720de"
+  },
+  {
+    "expand": "description,lead,issueTypes,url,projectKeys,permissions",
+    "self": "https://natahouse.atlassian.net/rest/api/3/project/10028",
+    "id": "10028",
+    "key": "YOLOOP",
+    "name": "Yoloop",
+    "avatarUrls": {
+      "48x48": "https://natahouse.atlassian.net/secure/projectavatar?avatarId=10324",
+      "24x24": "https://natahouse.atlassian.net/secure/projectavatar?size=small&s=small&avatarId=10324",
+      "16x16": "https://natahouse.atlassian.net/secure/projectavatar?size=xsmall&s=xsmall&avatarId=10324",
+      "32x32": "https://natahouse.atlassian.net/secure/projectavatar?size=medium&s=medium&avatarId=10324"
+    },
+    "projectTypeKey": "software",
+    "simplified": true,
+    "style": "next-gen",
+    "isPrivate": false,
+    "properties": {},
+    "uuid": "9f84ee7f-a25f-4502-a0c9-b22766be628b"
+  },
+  {
+    "expand": "description,lead,issueTypes,url,projectKeys,permissions",
+    "self": "https://natahouse.atlassian.net/rest/api/3/project/10000",
+    "id": "10000",
+    "key": "ZULI",
+    "name": "Zuli",
+    "avatarUrls": {
+      "48x48": "https://natahouse.atlassian.net/secure/projectavatar?pid=10000&avatarId=10512",
+      "24x24": "https://natahouse.atlassian.net/secure/projectavatar?size=small&s=small&pid=10000&avatarId=10512",
+      "16x16": "https://natahouse.atlassian.net/secure/projectavatar?size=xsmall&s=xsmall&pid=10000&avatarId=10512",
+      "32x32": "https://natahouse.atlassian.net/secure/projectavatar?size=medium&s=medium&pid=10000&avatarId=10512"
+    },
+    "projectTypeKey": "software",
+    "simplified": false,
+    "style": "classic",
+    "isPrivate": false,
+    "properties": {}
+  },
+  {
+    "expand": "description,lead,issueTypes,url,projectKeys,permissions",
+    "self": "https://natahouse.atlassian.net/rest/api/3/project/10003",
+    "id": "10003",
+    "key": "ZHD",
+    "name": "Zuli Help Desk",
+    "avatarUrls": {
+      "48x48": "https://natahouse.atlassian.net/secure/projectavatar?avatarId=10324",
+      "24x24": "https://natahouse.atlassian.net/secure/projectavatar?size=small&s=small&avatarId=10324",
+      "16x16": "https://natahouse.atlassian.net/secure/projectavatar?size=xsmall&s=xsmall&avatarId=10324",
+      "32x32": "https://natahouse.atlassian.net/secure/projectavatar?size=medium&s=medium&avatarId=10324"
+    },
+    "projectTypeKey": "service_desk",
+    "simplified": false,
+    "style": "classic",
+    "isPrivate": true,
+    "properties": {}
+  }
+]

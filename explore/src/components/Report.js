@@ -15,11 +15,11 @@ import ElasticsearchHitCount from "../components/widgets/elasticsearch/hit-count
 import GitHubIssueCount from "../components/widgets/github/issue-count";
 
 // Theme
-//import lightTheme from "../styles/light-theme";
-import darkTheme from "../styles/dark-theme";
+import lightTheme from "../styles/light-theme";
+// import darkTheme from '../styles/dark-theme'
 
 export default () => (
-  <Dashboard theme={darkTheme}>
+  <Dashboard theme={lightTheme}>
     <DateTime />
 
     <PageSpeedInsightsScore url="https://github.com" />
@@ -28,20 +28,19 @@ export default () => (
 
     <JiraIssueCount
       title="JIRA Open issues"
-      authKey="rQbqRfk0QYHaDz1TGTyQ5AB3"
-      url="https://natahouse.atlassian.net"
-      query='type=SHERLOCK-34 AND project="Sherlock" AND resolution=Unresolved ORDER BY priority DESC,created DESC'
+      url="https://jira.atlassian.com"
+      query='type=Bug AND project="Bitbucket Server" AND resolution=Unresolved ORDER BY priority DESC,created DESC'
     />
 
     <BitbucketPullRequestCount
       title="Bitbucket Open PR"
-      url="https://crossorigin.me/https://bitbucket.typo3.com"
+      url="https://bitbucket.typo3.com"
       project="EXT"
       repository="blog"
     />
 
     <SonarQube
-      url="https://crossorigin.me=https://sonarcloud.io"
+      url="https://sonarcloud.io"
       componentKey="com.icegreen:greenmail-parent"
     />
 
@@ -71,7 +70,7 @@ export default () => (
 
     <ElasticsearchHitCount
       title="Log Hits"
-      url="https://crossorigin.me=http://ec2-34-210-144-223.us-west-2.compute.amazonaws.com:9200"
+      url="http://ec2-34-210-144-223.us-west-2.compute.amazonaws.com:9200"
       index="blog"
       query="user:dilbert"
     />

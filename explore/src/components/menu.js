@@ -17,7 +17,7 @@ class menu extends Component {
         </button>
 
         <button type="button" className="btn btn-outline-success">
-          <Link to="/Ranking" className="nav-link">
+          <Link to="/ranking" className="nav-link">
             Ranking
           </Link>
         </button>
