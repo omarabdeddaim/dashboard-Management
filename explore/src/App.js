@@ -5,7 +5,7 @@ import SearchBar from "./components/SearchBar";
 import GetIn from "./components/getIn";
 import Register from "./components/Register";
 import Login from "./components/Login";
-// import Profile from "./components/Profile";
+import Ranking from "./components/ranking";
 import Report from "./components/Report";
 import Menu from "./components/menu";
 import Calendar from "./components/Calendar1";
@@ -24,7 +24,7 @@ function App() {
           <Route exact path="/Report" component={Report} />
           <Route exact path="/Calendar1" component={Calendar} />
           <Route exact path="/thanks" component={Thanks} />
-          {/* <Route exact path="/profile" component={Profile} /> */}
+          <Route exact path="/ranking" component={Ranking} />
         </div>
       </div>
     </BrowserRouter>
