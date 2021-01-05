@@ -6,7 +6,7 @@
     "@material-ui/core": "^3.9.3",
     "algoliasearch": "^3.33.0",
     "auth0-js": "^9.10.2",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "buffered-reader": "^1.0.1",
     "connect": "^3.7.0",
     "gapi": "0.0.3",
